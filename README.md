@@ -96,6 +96,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Genbaz](https://www.genbaz.io?utm_source=toolify) - AI-powered platform for creating diverse apps and content.
 * [Genie 3-Al-Powered 3D WorldGenerator](https://www.aigenie3.net?utm_source=toolify) - AI-powered 3D virtual world generator from text.
 * [Glia](https://iacommunidad.com/topic/2428/glia-ai-contact-center-software-for-unified-customer-experience) - AI Contact Center Software for unified digital and voice customer experience.
+* [Gochu](https://gochu.app) - High-fidelity AI companion framework featuring realistic voice synthesis and dynamic photo generation.. [Free]
 * [Grok Imagine](https://iacommunidad.com/topic/2072/grok-imagine-ai-powered-photorealistic-image-and-video-generator) - AI platform for generating photorealistic images and 6-second videos from text.
 * [Grok Video AI](https://grokvideo.ai?utm_source=toolify) - AI video generator: image to video, text to video.
 * [Grok imagine - AI Video Generator](https://grokimagineai.ai?utm_source=toolify) - Free AI video generator by xAI, transforms text into videos instantly.
@@ -194,6 +195,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Shipable AI](https://www.shipable.ai?utm_source=toolify) - No-code platform to build, launch, and scale AI agents.
 * [Skywork.ai](https://skywork.ai?utm_source=toolify) - 10 Tasks in 1 Hour, Not 10 Hours →Limited Free Spots: 127 Left
 * [Slashit App](https://iacommunidad.com/topic/2463/slashit-app-ai-powered-text-automation-for-productivity) - AI-powered tool for faster replies, text automation, and productivity.
+* [SillyTavern](https://github.com/SillyTavern/SillyTavern) - A powerful local interface for managing AI personas and immersive roleplay experiences [Free]
 * [Smith.ai](https://iacommunidad.com/topic/2483/smith.ai-ai-and-human-powered-receptionist-services) - 24/7 AI and human-powered receptionists, outreach, and web chat services.
 * [Social Intents](https://iacommunidad.com/topic/2403/social-intents-ai-powered-live-chat-for-teams) - Meet the #1 AI-Powered Live Chat and Website Chatbot backed by your Team in Slack, Microsoft Team...
 * [Solvea](https://iacommunidad.com/topic/2371/solvea-ai-resolution-engine-for-complex-customer-service) - AI resolution engine for complex customer service.
@@ -222,6 +224,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Unshackled AI](https://iacommunidad.com/topic/2159/uncensored-ai-chatbot-for-free-conversations) - AI-powered, uncensored chatbot for unrestricted conversations and content generation.
 * [VO3 AI](https://www.vo3ai.com?utm_source=toolify) - AI video generator for cinematic videos from text/images with audio.
 * [Vapi](https://vapi.ai) - Build, test and deploy voicebots in minutes rather than months.
+* [Venice.ai](https://venice.ai) - Private and uncensored AI platform offering decentralized chat and image generation with local encryption [Freemium]
 * [Veo 4](https://veo4.dev?utm_source=toolify) - Veo 4 is a production‑ready AI video generation platform that creates cinematic videos with n...
 * [Veo Video](https://iacommunidad.com/topic/2110/veo-video-ai-powered-video-generation-platform) - AI video generation platform from text/images.
 * [Veo-3-AI](https://veo3ai.org?utm_source=toolify) - Google's AI video generator for 4K videos with audio and lip-syncing.
