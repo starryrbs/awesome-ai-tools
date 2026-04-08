@@ -310,6 +310,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Caricature Maker](https://iacommunidad.com/topic/2282/instant-ai-powered-personalized-caricatures) - AI tool to create funny, personalized caricatures from photos instantly.
 * [Cashzine.AI — SmarterCashzine.AI — Smarter Image Editing with AI Image Editing with AI](https://cashzineapp.com?utm_source=toolify) - Cashzine.AI is an all-in-one AI toolkit for effortless photo editing. Instantly remove background...
 * [CharaLab](https://aicharalab.com?utm_source=toolify) - AI character generator creating diverse characters from text or photos.
+* [GetCharGen](https://getchargen.com/dnd-character-generator) - AI D&D character generator for portrait, class concept, stats, and backstory in one flow.
 * [ChatGPT Logo](https://iacommunidad.com/topic/2227/chatgpt-logo-ai-powered-logo-generator-for-custom-branding) - AI logo generator powered by ChatGPT for custom brand logos.
 * [Coloring-Pages.APP](https://iacommunidad.com/topic/2349/ai-powered-coloring-page-generator-coloring-pages.app) - ColoringPages.app is an AI coloring page generator that turns any photo or text prompt into clean...
 * [Coloring.app](https://iacommunidad.com/topic/2142/coloring.app-ai-powered-custom-coloring-book-generator) - Create custom coloring pages and personalized coloring books from photos or text prompts.
