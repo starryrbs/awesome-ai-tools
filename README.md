@@ -941,6 +941,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Find local AI in 10 secs with Suverenum](https://iacommunidad.com/topic/2150/suverenum-find-and-run-local-ai-models-on-your-laptop) - Tool to find and run private local AI models on your laptop.
 * [FoodCoach](https://iacommunidad.com/topic/2378/ai-food-scanner-for-dietary-needs-and-instant-insights) - AI food scanner for dietary needs and instant insights.
 * [Fotoria - AI Headshot Generator](https://iacommunidad.com/topic/2075/fotoria-ai-powered-professional-headshot-generator) - AI Headshot Generator for professional headshots from selfies.
+* [HeadshotCraft](https://headshotcraft.com) - Turn one selfie into 50+ studio-quality AI headshots for LinkedIn, resumes, and team pages.
 * [GPT Agent](https://iacommunidad.com/topic/2225/gpt-agent-autonomous-ai-for-complex-task-completion) - Proactive, autonomous AI agent for complex task completion.
 * [Generate Ads AI](https://generateads.ai/?via=toolify) - AI tool to generate scroll-stopping ads in minutes.
 * [Gowanus](https://gowanus.ai?utm_source=toolify) - AI agents monitor billing flows to prevent lost revenue.
