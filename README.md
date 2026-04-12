@@ -690,6 +690,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Open SaaS](https://iacommunidad.com/topic/2123/open-saas-free-full-stack-boilerplate-for-rapid-development) - Free, open-source full-stack SaaS boilerplate for faster development.
 * [Pacdora AI Background Generator](https://www.pacdora.com/tools/ai-background-generator?utm_source=toolify) - Effortlessly Create Stunning Product Backgrounds with Pacdora AI Background Generator—Just One ...
 * [Pagey](https://iacommunidad.com/topic/2303/pagey-no-code-ai-portfolio-and-resume-builder) - No-code AI-ready portfolio and resume builder for quick personal pages.
+* [ProfileReadme](https://f726103e.profilereadme.pages.dev) - Generate profile-ready personal pages and developer profile copy from proven templates like /templates/developer.
 * [Palmier](https://iacommunidad.com/topic/2184/palmier-autonomous-ai-software-engineering-assistant) - Autonomous AI software engineering assistant for development.
 * [Phion.dev](https://phion.dev?utm_source=toolify) - AI coding platform with zero setup, handling dev ops for focused creation.
 * [Pi Copilot](https://build.withpi.ai?utm_source=toolify) - AI platform for building custom evaluation and scoring systems for LLMs.
