@@ -139,6 +139,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Mew Design](https://mew.design?utm_source=toolify) - Your AI Design Agent for Flawless Text & Visuals
 * [Mexty](https://iacommunidad.com/topic/2191/mexty-ai-powered-interactive-e-learning-content-creator) - AI-powered tool for creating personalized, interactive e-learning content.
 * [MixHub AI](https://mixhubai.com?utm_source=toolify) - Mixhub AI is a free all-in-one platform for AI Chat, Image, and Video generation.For AI Chat, the...
+* [MindMap AI](https://mindmapai.app/ai-mindmap-maker) - AI-powered mind mapping tool to organize ideas, structure research, and convert documents into visual mind maps.
 * [Modernbanc](https://iacommunidad.com/topic/2231/modernbanc-ai-powered-accounting-software-for-startups) - AI-powered online accounting software for startups and businesses.
 * [MoodyTunes](https://www.moodytunes.io?utm_source=toolify) - AI-powered music assistant for videos and content creation.
 * [Moonmate](https://moonmate.ai?utm_source=toolify) - AI companion platform for immersive roleplay chats and emotional support.
