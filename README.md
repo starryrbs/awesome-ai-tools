@@ -436,6 +436,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Shockvue](https://www.shockvueapp.com?utm_source=toolify) - AI image editor for magic-like edits, describe and speak edits, instant visuals.
 * [Shotva](https://shotva.com?utm_source=toolify) - Transforms screenshots into polished, share-ready visuals with AI.
 * [Silque AI - Your Fashion Companion](https://iacommunidad.com/topic/2194/silque-ai-your-personalized-fashion-companion) - AI fashion companion for personalized style, color analysis, and outfit curation.
+* [Aurcue](https://www.aurcue.com) - AI personal aesthetic assistant that turns one photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 * [SketchBubble AI Presentation Maker](https://iacommunidad.com/topic/2358/sketchbubble-ai-presentation-maker-transform-ideas-into-professional-slides) - SketchBubble AI slide maker transforms your ideas into fully-designed slide deck in minutes.
 * [Smart Palette](https://www.smartpalette.io?utm_source=toolify) - AI platform for creating and ordering custom artwork and prints.
 * [Snapsnob](https://iacommunidad.com/topic/2217/snapsnob-fast-and-private-photo-gallery-cleanup-for-ios) - iOS app for fast, private photo gallery cleanup and organization.
