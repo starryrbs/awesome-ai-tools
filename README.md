@@ -505,6 +505,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Gomotion](https://gomotion.io?utm_source=toolify) - AI model for professional motion design from a single prompt.
 * [HoverNotes](https://iacommunidad.com/topic/2515/hovernotes-ai-powered-video-to-obsidian-notes-converter) - AI-powered tool to transform video tutorials into Obsidian notes.
 * [Image-to-Video Maker](https://iacommunidad.com/topic/2399/image-to-video-maker-ai-powered-4k-video-creation) - AI video platform to create 4K videos from text, images, or clips.
+* [ImagineClip](https://imagineclip.com/) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 * [Keevx](https://www.keevx.com/main/home?utm_source=toolify) - Keevx: AI Video Generator with Realistic Avatars | Free to Start
 * [Lipsync AI](https://lipsyncai.net?utm_source=toolify) - AI tool for realistic talking avatars and speech animations.
 * [MemeClip](https://memeclip.ai?utm_source=toolify) - AI Meme Maker for Turning Text into Trending Memes
