@@ -433,6 +433,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Seedance AI | seedanceai.app](https://iacommunidad.com/topic/2460/seedance-ai-create-personalized-videos-from-text-or-images) - AI platform for creating personalized videos from text or images.
 * [Seedream 3](https://iacommunidad.com/topic/2074/seedream-3-ai-image-generator-for-stunning-2k-art-and-photos) - AI image generator for stunning 2K art and photos.
 * [Seedream 4.0](https://seedream4.org?utm_source=toolify) - AI Image Generator & Editor for professional visuals.
+* [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image gen (Seedream 5.0/4.5/4.0) with image-to-video via Kling 2.1 and free tier.
 * [Shockvue](https://www.shockvueapp.com?utm_source=toolify) - AI image editor for magic-like edits, describe and speak edits, instant visuals.
 * [Shotva](https://shotva.com?utm_source=toolify) - Transforms screenshots into polished, share-ready visuals with AI.
 * [Silque AI - Your Fashion Companion](https://iacommunidad.com/topic/2194/silque-ai-your-personalized-fashion-companion) - AI fashion companion for personalized style, color analysis, and outfit curation.
