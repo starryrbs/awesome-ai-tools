@@ -514,6 +514,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [PERSO.ai](https://iacommunidad.com/topic/2342/perso.ai-all-in-one-ai-video-platform-for-dubbing-and-creation) - All-in-one AI video platform for dubbing, creation, and live chat.
 * [Plexigen AI - AI Video Generator with Sound & Effects](https://plexigen.ai?utm_source=toolify) - AI video generator with sound from text & images.
 * [PodClips](https://iacommunidad.com/topic/2127/podclips-ai-tool-for-creating-viral-video-content-from-podcasts) - AI tool to create viral video content from podcasts.
+* [ImagineClip](https://imagineclip.com) - AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content from prompts, images, and effects.
 * [Postploy](https://iacommunidad.com/topic/2273/postploy-ai-powered-social-media-management-tool) - AI-powered social media management for content creation and scheduling.
 * [Reka Vision](https://iacommunidad.com/topic/2309/reka-a-multimodal-ai-platform-for-visual-understanding-and-data-insights) - Reka is an agentic multimodal AI platform for visual understanding and data insights.
 * [RunAleph.com: Free AI Video Editing with Runway Aleph](https://runaleph.com?utm_source=toolify) - Use Runway Aleph’s text-to-video editing, featuring style transfer, object removal, and more—...
