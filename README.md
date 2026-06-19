@@ -282,6 +282,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [AI Hairstyle-](https://iacommunidad.com/topic/2112/ai-hairstyle-try-virtual-hairstyles-instantly) - Discover your perfect hairstyle in seconds with AI Hairstyle — a free, AI-powered tool that let...
 * [AI Image Editor-](https://aiimageeditor.ai?utm_source=toolify) - AI-powered online image editor for text-prompt photo transformation.
 * [AI Image to Image Generator](https://iacommunidad.com/topic/2426/ai-image-to-image-generator-transform-and-enhance-photos-with-ai) - AI tool to transform, edit, and enhance photos using text prompts.
+* [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup tool for removing crowds, clutter, unwanted objects, glasses glare, and product photo distractions.
 * [AI OC Maker](https://aiocmaker.com?utm_source=toolify) - AI-powered platform to generate unique original characters.
 * [AI Virtual Staging](https://iacommunidad.com/topic/2206/ai-virtual-staging-transform-property-photos-in-seconds) - AI virtual staging is a solution for real estate professionals who need stunning property photos ...
 * [AI-PRO.org](https://ai-pro.org?utm_source=toolify) - All-in-one AI platform for learning, tools, and assistance.
