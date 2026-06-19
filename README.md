@@ -832,6 +832,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Morphic](https://iacommunidad.com/topic/2525/morphic-all-in-one-ai-studio-for-creative-content-generation) - Morphic is an all-in-one AI studio for generating everything from images and videos to ads and in...
 * [Morphik](https://www.morphik.ai?utm_source=toolify) - Open-source AI knowledge base and research agent for enterprise data.
 * [Nimt.ai](https://iacommunidad.com/topic/2103/nimt.ai-track-and-boost-brand-visibility-on-ai-platforms) - Track and boost brand visibility, ranking, and Share of Voice on AI platforms.
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 * [Outsoci](https://iacommunidad.com/topic/2199/outsoci-ai-powered-lead-generation-tool-for-social-media-and-maps) - Lead generation tool to legally scrape emails from social media and maps.
 * [Pathable](https://iacommunidad.com/topic/2129/ai-chrome-extension-for-authentic-x-twitter-content) - AI Chrome extension for authentic, engaging X/Twitter content in your unique voice.
 * [Perspective AI](https://iacommunidad.com/topic/2029/perspective-ai-ai-research-platform-for-product-and-marketing-teams) - AI research platform for product, marketing, research, and CX teams.
