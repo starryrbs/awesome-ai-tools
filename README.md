@@ -17,6 +17,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 ## 📝 AI Text
 
 * [15Minutes](https://iacommunidad.com/topic/2362/15minutes-ai-powered-book-summaries-and-audiobooks) - Provides 15-minute book summaries, analysis, and audiobooks for over 10,000 titles.
+* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 * [AI ASMR](https://iacommunidad.com/topic/2370/ai-powered-asmr-video-generator) - AI-powered tool for generating high-quality ASMR videos.
 * [AI Book Summarizer](https://iacommunidad.com/topic/2407/ai-book-summarizer-fast-and-multilingual-book-summaries) - Cut through pages of text with our AI Book Summarizer! It breaks down books fast, highlights key ...
 * [AI Chatbot Online](https://iacommunidad.com/topic/2054/ai-chatbot-online-chat-and-create-custom-ai-characters) - Chat with AI characters, create and customize them.
