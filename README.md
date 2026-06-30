@@ -280,6 +280,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [AI Garden Design](https://aigardendesign.io?utm_source=toolify) - AI tool for instant, personalized garden and landscape design.
 * [AI HairStyle Changer](https://aihairchanger.com?utm_source=toolify) - AI tool for virtual hair makeovers, changing styles and colors instantly.
 * [AI Hairstyle-](https://iacommunidad.com/topic/2112/ai-hairstyle-try-virtual-hairstyles-instantly) - Discover your perfect hairstyle in seconds with AI Hairstyle — a free, AI-powered tool that let...
+* [HairWow](https://www.gohairwow.com) - AI hairstyle try-on for previewing haircuts, hair colors, bangs, curls, and salon or barber style changes on your own photo.
 * [AI Image Editor-](https://aiimageeditor.ai?utm_source=toolify) - AI-powered online image editor for text-prompt photo transformation.
 * [AI Image to Image Generator](https://iacommunidad.com/topic/2426/ai-image-to-image-generator-transform-and-enhance-photos-with-ai) - AI tool to transform, edit, and enhance photos using text prompts.
 * [AI OC Maker](https://aiocmaker.com?utm_source=toolify) - AI-powered platform to generate unique original characters.
