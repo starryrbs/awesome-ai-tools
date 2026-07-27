@@ -541,6 +541,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 
 ## 🎶 Generative AI Audio
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 * [11ai](https://11.ai?utm_source=toolify) - Build and customize personal AI voice assistants with integrations.
 * [1703.co](https://iacommunidad.com/topic/2322/1703-media-ai-powered-youtube-video-creation-platform) - AI video creation platform for YouTube, transforming ideas into professional videos.
 * [Adtwin AI](https://iacommunidad.com/topic/2105/adtwin-ai-powered-audio-advertising-platform) - AI platform for easy audio ad creation, distribution, and tracking.
