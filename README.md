@@ -892,6 +892,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [ZapForm](https://www.zapform.ai?utm_source=toolify) - AI-powered forms for lead capture, qualification, and conversion.
 * [groas](https://groas.ai/?via=0d2aa5) - AI platform for optimizing Google Search Ads and funnels.
 * [mention.click](https://iacommunidad.com/topic/2169/ai-tool-for-finding-relevant-reddit-conversations) - AI tool to find relevant Reddit conversations for business growth.
+* [Autoposting](https://autoposting.ai) - AI social media manager that writes in your brand voice, clips video, and schedules posts.
 
 ## 🎒 Other AI Tools
 
