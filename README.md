@@ -306,6 +306,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Bilbo](https://iacommunidad.com/topic/2152/bilbo-ai-assistant-for-metabase-data-analysis) - AI assistant for Metabase to query, explore, and visualize data.
 * [Brat Generator](https://iacommunidad.com/topic/2427/brat-generator-create-charli-xcx-style-album-covers) - Free online tool to create Charli XCX "Brat" style album covers.
 * [Build Or Not](https://buildornot.io?utm_source=toolify) - Data-driven platform for startup ideas, market analysis, and revenue insights.
+* [IdeaHunter](https://ideahunter.today/) - AI research for finding demand-backed app and micro-SaaS ideas before building.
 * [Buzz Cut Filter](https://buzzcutfilter.com?utm_source=toolify) - AI tool to preview buzz cut on your photo instantly.
 * [Caricature Maker](https://iacommunidad.com/topic/2282/instant-ai-powered-personalized-caricatures) - AI tool to create funny, personalized caricatures from photos instantly.
 * [Cashzine.AI — SmarterCashzine.AI — Smarter Image Editing with AI Image Editing with AI](https://cashzineapp.com?utm_source=toolify) - Cashzine.AI is an all-in-one AI toolkit for effortless photo editing. Instantly remove background...
