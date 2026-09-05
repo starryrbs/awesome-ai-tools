@@ -20,6 +20,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [AI ASMR](https://iacommunidad.com/topic/2370/ai-powered-asmr-video-generator) - AI-powered tool for generating high-quality ASMR videos.
 * [AI Book Summarizer](https://iacommunidad.com/topic/2407/ai-book-summarizer-fast-and-multilingual-book-summaries) - Cut through pages of text with our AI Book Summarizer! It breaks down books fast, highlights key ...
 * [AI Chatbot Online](https://iacommunidad.com/topic/2054/ai-chatbot-online-chat-and-create-custom-ai-characters) - Chat with AI characters, create and customize them.
+* [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 * [AI Detector for PPT](https://www.pptdetector.com?utm_source=toolify) - Accurate AI detector for PowerPoint presentations, checking for AI-generated content.
 * [AI Grammar Checker for iOS](https://iacommunidad.com/topic/2457/ai-grammar-check-corrector-ios-app-for-writing-enhancement) - AI-powered iOS app for grammar, spelling, and writing correction, plus translation.
 * [AI Jingle Maker](https://iacommunidad.com/topic/2143/ai-jinglemaker-create-custom-audio-jingles-with-ai) - Easy AI-powered creation of custom audio jingles and intros.
