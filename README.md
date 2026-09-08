@@ -819,6 +819,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Linked API](https://iacommunidad.com/topic/2316/linked-api-secure-linkedin-integration-for-automation-and-data) - Secure LinkedIn API for various use cases.
 * [Lodoy](https://iacommunidad.com/topic/2064/ai-market-research-for-idea-validation-and-competitor-analysis) - AI market research for idea validation, competitor analysis, and audience testing.
 * [Loopcv](https://loopcv.pro/?via=toolify) - AI-powered platform to automate and optimize job search and applications.
+* [ResumeAI](https://withresumeai.com/) - AI resume builder with free ATS checks (3/day anonymous, 10/day free account).
 * [MCP Stack](https://mcp-stack.com?utm_source=toolify) - Open-source MCP integration for AI-powered enterprise marketing.
 * [MailTester.Ninja](https://rork.com/?ref=toolify) - MailTester.Ninja is a free and easy-to-use email checker that verifies or finds any address.
 * [Mailteorite](https://mailteorite.com?utm_source=toolify) - AI email template generator for professional results.
