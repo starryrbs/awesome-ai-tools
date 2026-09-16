@@ -895,6 +895,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 
 ## 🎒 Other AI Tools
 
+* [AI Tools Radar](https://aitoolsradar.com) - AI tools directory and editorial platform for discovering, comparing, and tracking practical AI products across categories.
 * [3 Things AI Tasks Tracker](https://apps.apple.com/us/app/3-things-ai-tasks-tracker/id6745344343?utm_source=toolify) - Minimalist AI task and habit tracker for focusing on 3 daily tasks and building habits.
 * [AI Agents Directory](https://iacommunidad.com/topic/2445/ai-agents-directory-discover-and-compare-ai-tools) - Comprehensive directory to discover, compare, and implement AI agent tools.
 * [AI Resume builder for Recruiters](https://iacommunidad.com/topic/2348/ai-resume-builder-for-recruiters-streamline-hiring-with-automated-formatting) - Reformat resumes into branded PDFs/Word docs in seconds. AI summaries, prompt-based edits, one-cl...
