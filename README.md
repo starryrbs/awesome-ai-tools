@@ -267,6 +267,8 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 
 ## 🖼️ Generative AI Images
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 * [A2E Free and Uncensored AI Videos](https://iacommunidad.com/topic/2424/a2e-free-and-uncensored-ai-videos-a-comprehensive-tool-for-creators) - Free and uncensored AI toolbox for creators including image-to-video, lip-sync, ai videos generat...
 * [AI Age](https://righthair.ai/ai-age-filter?utm_source=toolify) - Free AI age filter to see younger or older versions of yourself instantly.
 * [AI Animate Image](https://www.aianimateimage.org?utm_source=toolify) - AI tool to animate static images into stunning videos.
