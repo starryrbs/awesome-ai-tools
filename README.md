@@ -489,6 +489,8 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 
 ## 📽️ Generative AI Video
 
+* [Cyanvid](https://cyanvid.com/?utm_source=starryrbs-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate.
+* [Barz Studio](https://barzvideo.com/?utm_source=starryrbs-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 * [AI ASMR Videos](https://iacommunidad.com/topic/2485/ai-asmr-videos-generate-professional-relaxation-content) - AI-powered platform for generating professional ASMR videos.
 * [BeepThatOut](https://iacommunidad.com/topic/2365/beepthatout-ai-powered-profanity-editor-for-content-creators) - AI-powered web-based profanity editor for content creators.
 * [Celebrity AI](https://celebrityai.club?utm_source=toolify) - AI generator for realistic celebrity videos, voice cloning, and messages.
