@@ -184,6 +184,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [SMMAI: AI Banner Maker](https://home.smmai.app?utm_source=toolify) - Skip the blank canvas. AI creates thousands of banners for you instantly. Free web and iOS app, r...
 * [Saina ](https://ai.hirehunch.com/interview?utm_source=toolify) - AI interviewer for faster, unbiased candidate screening.
 * [SalesRender](https://iacommunidad.com/topic/2063/salesrender-crm-all-in-one-solution-for-online-sales-and-call-centers) - All-in-one CRM for online sales and call centers.
+* [Sammi: AI Girlfriend](https://sammiai.app/) - Android AI companion for fictional character text chat, voice interaction, customization and creative roleplay.
 * [SchedX](https://www.schedx.ai?utm_source=toolify) - AI Inbound SDR for lead qualification and meeting booking.
 * [Seedance 1.0 AI](https://iacommunidad.com/topic/2500/seedance-1.0-ai-transform-text-and-images-into-cinematic-videos) - AI video generator for cinematic text & image to video.
 * [Seedance AI](https://iacommunidad.com/topic/2532/seedance-ai-bytedance-s-revolutionary-video-generator) - ByteDance's AI video generator for multi-shot, cinematic videos.
