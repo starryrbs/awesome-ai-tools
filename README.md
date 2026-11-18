@@ -424,6 +424,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Renovate AI](https://www.renovateai.ai?utm_source=toolify) - AI-powered tool for instant home renovation visualization.
 * [RightHair](https://righthair.ai?utm_source=toolify) - Free AI hairstyle changer to virtually try on haircuts and colors.
 * [Riveo](https://iacommunidad.com/topic/2080/ai-powered-video-effects-editor-for-mobile-and-desktop) - AI-driven video effects editor and composer for mobile and desktop.
+* [RoomRedecor](https://roomredecor.com/) - Generate room redesign images from an uploaded room photograph.
 * [Runway Aleph AI](https://iacommunidad.com/topic/2092/runway-aleph-ai-ai-powered-video-editing-platform) - AI-powered platform for video generation and editing.
 * [Runwayaleph.net](https://iacommunidad.com/topic/2047/runway-aleph-revolutionary-ai-video-editing-tool) - Revolutionary AI video model for multi-task visual generation.
 * [Rustic AI](https://iacommunidad.com/topic/2102/ai-powered-design-editor-for-visuals-and-content-creation) - AI-powered design editor for visuals and content creation.
