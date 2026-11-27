@@ -380,6 +380,7 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Madespace](https://madespace.ai?utm_source=toolify) - AI-powered interior design app for everyone to design, shop, and get expert help.
 * [Magic Patterns](https://iacommunidad.com/topic/2131/magic-patterns-ai-powered-ui-prototyping-platform) - AI prototyping platform for faster UI generation and iteration.
 * [Magic-Eraser](https://iacommunidad.com/topic/2543/magic-eraser-free-ai-tool-to-remove-unwanted-objects-from-photos) - AI-powered tool to remove unwanted objects from photos, free and no login.
+* [makeaicreator](https://makeaicreator.com/) - Design a consistent AI influencer from a plain-language persona; face-locked photos, voiceover videos, and product-placement clips. Paid, with subscription credits.
 * [Mangaka.app](https://mangaka.app?utm_source=toolify) - AI tool transforming scripts into stunning manga illustrations.
 * [MarketMint](https://iacommunidad.com/topic/2197/discover-saas-tools-startups-and-news-with-ease) - SaaS discovery platform for tools, startups, and news.
 * [Maxel AI](https://maxel.ai?utm_source=toolify) - Cloud-based platform for automated 3D print preparation and G-code generation.
